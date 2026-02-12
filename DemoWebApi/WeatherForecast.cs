@@ -1,4 +1,4 @@
-namespace DemoWebApi
+namespace EEMS
 {
     public class WeatherForecast
     {
