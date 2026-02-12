@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace DemoWebApi.Controllers
+namespace EEMS.Controllers
 {
     [ApiController]
     [Route("[controller]")]
